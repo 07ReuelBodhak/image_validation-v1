@@ -1,0 +1,6 @@
+nodemon
+express
+mongoose
+ejs
+cors
+multer
